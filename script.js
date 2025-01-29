@@ -67,6 +67,6 @@ document.getElementById('akan-form').addEventListener('submit', function (event)
     }
 
     // Step 8: Display the results
-    document.getElementById('result').innerText = 'Hey Babe! Your Unique Akan name is ${akanName}';
+       document.getElementById('result').innerText = `Hey Babe! Your Unique Akan name is ${akanName}`;
 
 });
